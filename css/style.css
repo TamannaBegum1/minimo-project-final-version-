@@ -194,7 +194,7 @@ header{
     padding: 10px 0;
 }
 .pages{
-    padding-top: 16px;
+    padding-top: 10px;
     padding-left: 65px;
     width: 45%;
     float: left;
@@ -216,6 +216,7 @@ header{
        border-bottom: 1px solid #626262;
 }
 .social{
+  padding-top:10px;  
   width: 45%;
   float: right;
 }
