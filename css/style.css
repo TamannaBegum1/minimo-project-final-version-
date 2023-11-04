@@ -173,6 +173,7 @@ header{
        text-align:center; 
 }
 .load button{
+     cursor:pointer;
      width: 180px;
      height: 60px;
      border: 1px solid #626262;
