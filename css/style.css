@@ -195,7 +195,6 @@ header{
     padding: 10px 0;
 }
 .pages{
-    padding-top: 10px;
     padding-left: 65px;
     width: 45%;
     float: left;
@@ -216,8 +215,7 @@ header{
 .pages ul li a:hover{
        border-bottom: 1px solid #626262;
 }
-.social{
-  padding-top:10px;  
+.social{ 
   width: 45%;
   float: right;
 }
